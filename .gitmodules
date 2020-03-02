@@ -22,3 +22,6 @@
 [submodule "modular-forms-and-l-functions"]
 	path = Part IA/Michaelmas/Modular Forms and L-Functions
 	url = https://git.overleaf.com/5da19b753aaf80000149f93c
+[submodule "complex-analysis"]
+	path = Part IA/Michaelmas/Complex Analysis
+	url = https://git.overleaf.com/5e5d8c1a2032140001695195
