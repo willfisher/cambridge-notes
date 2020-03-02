@@ -1,0 +1,24 @@
+[submodule "graph-theory"]
+	path = Part IA/Michaelmas/Graph Theory
+	url = https://git.overleaf.com/5da1868b305cbb0001b73ff3
+[submodule "numbers-and-sets"]
+	path = Part IA/Michaelmas/Numbers and Sets
+	url = https://git.overleaf.com/5da198c43aaf80000149f8ac
+[submodule "vectors-and-matrices"]
+	path = Part IA/Michaelmas/Vectors and Matrices
+	url = https://git.overleaf.com/5da19abc3aaf80000149f900
+[submodule "category-theory"]
+	path = Part IA/Michaelmas/Category Theory
+	url = https://git.overleaf.com/5da0c38491fe5e0001b9be31
+[submodule "groups"]
+	path = Part IA/Michaelmas/Groups
+	url = https://git.overleaf.com/5da19a163aaf80000149f8cb
+[submodule "differential-equations"]
+	path = Part IA/Michaelmas/Differential Equations
+	url = https://git.overleaf.com/5da199ca3aaf80000149f8be
+[submodule "probability-and-measure"]
+	path = Part IA/Michaelmas/Probability and Measure
+	url = https://git.overleaf.com/5da19b003aaf80000149f90c
+[submodule "modular-forms-and-l-functions"]
+	path = Part IA/Michaelmas/Modular Forms and L-Functions
+	url = https://git.overleaf.com/5da19b753aaf80000149f93c
